@@ -1,0 +1,232 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Aland Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Albania.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Algeria.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/American Samoa.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Andorra.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Angola.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Anguilla.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Antigua and Barb.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Argentina.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Aruba.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Ascension and Tristan da Cunha.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Australia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Austria.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Azerbaijan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bahamas.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bahrain.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bangladesh.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Barbados.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Belarus.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Belgium.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Belize.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Benin.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bermuda.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bhutan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bolivia (Plurinatio.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bosnia and Her.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Botswana.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Brazil.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/British Indian O.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Brunei Darussala.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Bulgaria.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Burkina Faso.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cabo Verde.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cambodia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cameroon.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Canada.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cayman Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Central African.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Chad.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Chile.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/China.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Christmas Island.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cocos (Keeling) Is.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Colombia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Comoros.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cook Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Costa Rica.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cote d'Ivoire.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Croatia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cuba.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Curacao.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Cyprus.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Czech Republic.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Democratic Republic of the Congo.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Denmark.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Djibouti.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Dominica.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Dominican Republic.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Ecuador.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Egypt.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/El Salvador.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Equatorial Guinea.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Eritrea.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Finland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Former Yugoslav Republic of Macedonia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/France.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/French Guiana.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/French Polynesia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Gabon.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Gambia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Georgia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Germany.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Ghana.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Gibraltar.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Greece.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Greenland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Grenada.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guadeloupe.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guam.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guatemala.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guernsey.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guinea.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guinea-Bissau.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Guyana.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Haiti.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Holy See.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Hong Kong.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Iceland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/India.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Indonesia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Iran (Islamic Republic of).png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Iraq.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Ireland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Isle of Man.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Israel.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Italy.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Jamaica.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Japan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Jersey.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Kazakhstan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Kenya.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Kiribati.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Kosovo.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Kuwait.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Kyrgyzstan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Laos.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Latvia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Lebanon.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Lesotho.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Liberia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Libya.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Liechtenstein.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Lithuania.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Luxembourg.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Macau.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Madagascar.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Malawi.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Malaysia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Maldives.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mali.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Malta.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Marshall Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Martinique.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mauritania.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mauritius.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mayotte.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mexico.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Moldova.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Monaco.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mongolia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Montenegro.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Montserrat.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Morocco.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Mozambique.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Myanmar.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Namibia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Nauru.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Nepal.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Netherlands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/New Caledonia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/New Zealand.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Nicaragua.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Niger.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Nigeria.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Niue.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Norfolk Island.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/North Korea.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Northern Mariana Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Norway.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Pakistan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Palau.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Panama.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Papua New Guinea.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Paraguay.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Peru.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Philippines.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Pitcairn.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Poland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Portugal.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Puerto Rico.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Republic of the Congo.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Romania.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Russia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Rwanda.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saint Barthelemy.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saint Kitts and Nevis.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saint Lucia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saint Martin.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saint Pierre and Miquelon.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saint Vincent and the Grenadines.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Samoa.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/San Marino.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sao Tome and Principe.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Saudi Arabia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Senegal.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Serbia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Seychelles.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sierra Leone.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Singapore.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sint Eu.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sint Maarten.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Slovakia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Slovenia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Solomon Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Somalia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/South Africa.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/South Georgia and the South Sandwich Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/South Korea.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/South Sudan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Spain.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sri Lanka.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/State of Palestine.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sudan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Suriname.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Svalbard and Jan Mayen.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Swaziland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Sweden.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Switzerland.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Taiwan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Tajikistan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Tanzania.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Thailand.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Timor-Leste.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Togo.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Tokelau.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Tonga.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Trinidad and Tobago.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Tunisia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Turkey.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Turkmenistan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Tuvalu.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Uganda.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Ukraine.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/United Arab Emirates.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/United Kingdom.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/United States Minor Outlying Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/United States of America.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Uruguay.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Uzbekistan.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Vanuatu.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Venezuela.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Vietnam.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Virgin Islands.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Wallis and Futuna.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Western Sahara.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Yemen.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Zambia.png</file>
+        <file>image/W3W/KeyPad/Gen_Gfx_Country Flag_n-assets/Zimbabwe.png</file>
+    </qresource>
+</RCC>

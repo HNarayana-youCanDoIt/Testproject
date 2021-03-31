@@ -1,0 +1,21 @@
+{
+  "HmiHomeSlot01": "PersAdminCfgInstallExceptions_Update",
+  "HmiHomeSlot02": "PersAdminCfgInstallExceptions_Update",
+  "HmiHomeSlot03": "PersAdminCfgInstallExceptions_Update",
+  "HmiHomeSlot04": "PersAdminCfgInstallExceptions_Update",
+  "HmiHomeSlot05": "PersAdminCfgInstallExceptions_Update",
+  "HmiHomeSlot06": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupSMSNotifyType": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupSMSConfigSelection": "PersAdminCfgInstallExceptions_Update",
+  "HmiTestAutomation": "PersAdminCfgInstallExceptions_Update",
+  "HmiFavoriteScrOptionSelection": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS01": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS02": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS03": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS04": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS05": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS06": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupCustomSMS07": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupThemePreset": "PersAdminCfgInstallExceptions_Update",
+  "HmiSetupAudioPreset": "PersAdminCfgInstallExceptions_Update"
+}

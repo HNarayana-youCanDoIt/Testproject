@@ -1,0 +1,71 @@
+/*************************************************************
+* Project           Harman Car Multimedia System
+* (c) copyright     2019
+* Company           Harman/Becker Automotive Systems GmbH
+*                   All rights reserved
+* Secrecy Level     STRICTLY CONFIDENTIAL
+*************************************************************/
+
+Tata-X445 (800x480) (7inch) Infotainment system
+FIDL Building Help
+
+********************************************************************************************************************************
+__________ HOW TO GENERATE CODE FROM FIDL::
+Please write FIDL generation flow here...
+__________ COPY GENERATED CODE FILES To BELOW PATH
+/Project/x451/TML_X0_FIDL/HMI
+
+********************************************************************************************************************************
+__________ HOW TO BUILD *.SO/*.A FILES FOR LINUX USING GENERATE CODE::
+
+1. /x451/deploy/linux/lib/libTML_HMI-dbus.so
+2. /x451/deploy/linux/lib/libTML_HMI_tml_hmi_types_static_stub.a
+3. /x451/deploy/linux/lib/libTML_HMI_tml_hmi_types_static_proxy.a
+
+__________ RUN BELOW LINES ON LINUX CMD (system 10.90.30.73)
+
+clear
+cd /home/hmi/USER/PROJECT/x451/TML_X0_FIDL/HMI
+rm -r build
+mkdir build
+cd build
+source /opt/elina/environment-setup-cortexa9hf-vfp-neon-elina-linux-gnueabi
+cmake -DCMAKE_SYSROOT=/opt/elina/sysroots/cortexa9hf-vfp-neon-elina-linux-gnueabi/ ..
+make -j6
+
+cd gen
+/opt/elina/sysroots/x86_64-elinasdk-linux/usr/bin/arm-elina-linux-gnueabi/arm-elina-linux-gnueabi-strip libTML_HMI-dbus.so
+
+__________ COPY GENERATED FILES FORM BELOW PATH
+1. /Project/x451/TML_X0_FIDL/HMI/build/gen/libTML_HMI-dbus.so
+2. /Project/x451/TML_X0_FIDL/HMI/build/src-gen/libTML_HMI_tml_hmi_types_static_stub.a
+3. /Project/x451/TML_X0_FIDL/HMI/build/src-gen/libTML_HMI_tml_hmi_types_static_proxy.a
+
+********************************************************************************************************************************
+__________ HOW TO BUILD *.DLL/*.LIB FILES FOR WINDOWS USING GENERATE CODE::
+
+1. /x451/deploy/win/lib/TML_HMI-dbus.dll
+2. /x451/deploy/win/lib/TML_HMI_tml_hmi_types_static_stub.lib
+3. /x451/deploy/win/lib/TML_HMI_tml_hmi_types_static_proxy.lib
+
+__________ RUN BELOW LINES ON WIN CMD (local machine)
+clear
+cd /Project/x451/TML_X0_FIDL/HMI
+rmdir /s win_build						[to delete old build files if available]
+mkdir win_build
+cd win_build
+
+cmake --help							[to know installed visual studio name, In my case (Visual Studio 16 2019)]
+cmake -G "Visual Studio 16 2019"		[add your available visual studio name]
+
+__________ THIS WILL GENERATE VS PROJECT IN win_build DIR
+Open *.sln file in Visual Studio
+Build with X64 windows De-bugger
+This will create lib files.
+
+__________ COPY GENERATED FILES FORM BELOW PATH
+1. /Project/x451/TML_X0_FIDL/HMI/gen/Debug/libTML_HMI-dbus.dll
+2. /Project/x451/TML_X0_FIDL/HMI/src-gen/Debug/libTML_HMI_tml_hmi_types_static_stub.lib
+3. /Project/x451/TML_X0_FIDL/HMI/src-gen/Debug/libTML_HMI_tml_hmi_types_static_proxy.lib
+
+********************************************************************************************************************************

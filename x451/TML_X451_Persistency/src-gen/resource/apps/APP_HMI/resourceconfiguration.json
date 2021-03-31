@@ -1,0 +1,215 @@
+{
+  "config_appl": "APP_HMI",
+  "version": "0.1.0",
+  "resources": {
+    "HmiHomeSlot01": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiHomeSlot02": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiHomeSlot03": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiHomeSlot04": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiHomeSlot05": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiHomeSlot06": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupSMSNotifyType": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupSMSConfigSelection": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiTestAutomation": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiFavoriteScrOptionSelection": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS01": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS02": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS03": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS04": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS05": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS06": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupCustomSMS07": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupThemePreset": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    },
+    "HmiSetupAudioPreset": {
+      "policy": "writethrough",
+      "permission": "RW",
+      "storage": "local",
+      "max_size": "4",
+      "responsible": "APP_HMI",
+      "custom_name": "na",
+      "type": "key",
+      "customID": "na",
+      "version": ""
+    }
+  }
+}

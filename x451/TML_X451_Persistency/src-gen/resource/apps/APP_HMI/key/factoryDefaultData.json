@@ -1,0 +1,82 @@
+{
+  "config_appl": "APP_HMI",
+  "version": "0.1.0",
+  "resources": {
+    "HmiHomeSlot01": {
+      "size": "4",
+      "data": "18"
+    },
+    "HmiHomeSlot02": {
+      "size": "4",
+      "data": "16"
+    },
+    "HmiHomeSlot03": {
+      "size": "4",
+      "data": "1"
+    },
+    "HmiHomeSlot04": {
+      "size": "4",
+      "data": "2"
+    },
+    "HmiHomeSlot05": {
+      "size": "4",
+      "data": "14"
+    },
+    "HmiHomeSlot06": {
+      "size": "4",
+      "data": "0"
+    },
+    "HmiSetupSMSNotifyType": {
+      "size": "4",
+      "data": "1"
+    },
+    "HmiSetupSMSConfigSelection": {
+      "size": "4",
+      "data": "1"
+    },
+    "HmiTestAutomation": {
+      "size": "4",
+      "data": "0"
+    },
+    "HmiFavoriteScrOptionSelection": {
+      "size": "4",
+      "data": "0"
+    },
+    "HmiSetupCustomSMS01": {
+      "size": "120",
+      "data": "I am busy right now, will call later."
+    },
+    "HmiSetupCustomSMS02": {
+      "size": "120",
+      "data": "In a meeting."
+    },
+    "HmiSetupCustomSMS03": {
+      "size": "120",
+      "data": "Almost there."
+    },
+    "HmiSetupCustomSMS04": {
+      "size": "120",
+      "data": "Can\u0027t talk now, call me later."
+    },
+    "HmiSetupCustomSMS05": {
+      "size": "120",
+      "data": "Can\u0027t talk, text me."
+    },
+    "HmiSetupCustomSMS06": {
+      "size": "120",
+      "data": "Write your Own....."
+    },
+    "HmiSetupCustomSMS07": {
+      "size": "120",
+      "data": "Write your Own....."
+    },
+    "HmiSetupThemePreset": {
+      "size": "4",
+      "data": "0"
+    },
+    "HmiSetupAudioPreset": {
+      "size": "4",
+      "data": "2"
+    }
+  }
+}

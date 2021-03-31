@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TML_X451_Persistency</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.harman.tools.persistence.ui.PersistencyProjectNature</nature>
+	</natures>
+</projectDescription>

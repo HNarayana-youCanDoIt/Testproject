@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::cpp {
+
+	statechart TML_HMI_SM {
+
+		feature Outlet {
+			targetProject = "TML_SM_X445"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}

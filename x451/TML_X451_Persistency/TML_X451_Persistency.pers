@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.harman.tools.persistence:PersistenceRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.harman.tools.persistence="http://com/harman/tools/persistence">
+  <applicationGroups>
+    <applications name="APP_HMI" installRule="UpdateAll">
+      <resources name="HmiHomeSlot01" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="18"/>
+          <configDefault size="4" data="18"/>
+        </configuration>
+      </resources>
+      <resources name="HmiHomeSlot02" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="16"/>
+          <configDefault size="4" data="16"/>
+        </configuration>
+      </resources>
+      <resources name="HmiHomeSlot03" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="1"/>
+          <configDefault size="4" data="1"/>
+        </configuration>
+      </resources>
+      <resources name="HmiHomeSlot04" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="2"/>
+          <configDefault size="4" data="2"/>
+        </configuration>
+      </resources>
+      <resources name="HmiHomeSlot05" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="14"/>
+          <configDefault size="4" data="14"/>
+        </configuration>
+      </resources>
+      <resources name="HmiHomeSlot06" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="0"/>
+          <configDefault size="4" data="0"/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupSMSNotifyType" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="1"/>
+          <configDefault size="4" data="1"/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupSMSConfigSelection" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="1"/>
+          <configDefault size="4" data="1"/>
+        </configuration>
+      </resources>
+      <resources name="HmiTestAutomation" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="0"/>
+          <configDefault size="4" data="0"/>
+        </configuration>
+      </resources>
+      <resources name="HmiFavoriteScrOptionSelection" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="0"/>
+          <configDefault size="4" data="0"/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS01" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="I am busy right now, will call later."/>
+          <configDefault size="120" data="I am busy right now, will call later."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS02" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="In a meeting."/>
+          <configDefault size="120" data="In a meeting."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS03" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="Almost there."/>
+          <configDefault size="120" data="Almost there."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS04" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="Can't talk now, call me later."/>
+          <configDefault size="120" data="Can't talk now, call me later."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS05" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="Can't talk, text me."/>
+          <configDefault size="120" data="Can't talk, text me."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS06" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="Write your Own....."/>
+          <configDefault size="120" data="Write your Own....."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupCustomSMS07" version="" installException="Update" dataType="//@dataTypes.7">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="" type="key">
+          <factoryDefault size="120" data="Write your Own....."/>
+          <configDefault size="120" data="Write your Own....."/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupThemePreset" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="0"/>
+          <configDefault size="4" data="0"/>
+        </configuration>
+      </resources>
+      <resources name="HmiSetupAudioPreset" version="" installException="Update" dataType="//@dataTypes.2">
+        <configuration policy="writethrough" permission="RW" responsible="APP_HMI" max_size="4" type="key">
+          <factoryDefault size="4" data="2"/>
+          <configDefault size="4" data="2"/>
+        </configuration>
+      </resources>
+      <flashMemory/>
+      <ramMemory/>
+    </applications>
+  </applicationGroups>
+  <applicationGroups type="Groups"/>
+  <applicationGroups type="Public">
+    <applications name="public"/>
+  </applicationGroups>
+  <dataTypes/>
+  <dataTypes name="" type="UInt8"/>
+  <dataTypes type="Int32"/>
+  <dataTypes name="" type="UInt32"/>
+  <dataTypes name="" type="Int64"/>
+  <dataTypes name="" type="UInt64"/>
+  <dataTypes name="" type="Boolean"/>
+  <dataTypes name="" type="String"/>
+  <dataTypes name="" type="Float"/>
+  <dataTypes name="" type="Double"/>
+  <dataTypes name="" type="ByteBuffer"/>
+  <dataTypes name="" type="char"/>
+</com.harman.tools.persistence:PersistenceRoot>
